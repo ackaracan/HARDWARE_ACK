@@ -1,0 +1,10 @@
+Output: Copy of Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Second_project.PrjPcb]
+   Generated File[Copy of Bill of Materials-Second_project.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:14:10 On 23.10.2023

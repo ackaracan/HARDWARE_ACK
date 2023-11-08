@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+C:\Users\user\Desktop\Hardware\projects\Second_project\Project Outputs for Second_project\Pick Place\Pick Place for PCB_STM32.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23.10.23
+Time:       10:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                                                  
+U1         MPU6050              TopLayer    QFN_24               990.158       336.614       0        "IMU ACCEL/GYRO 3-AXIS I2C 24QFN"                                                            
+J1         RS1-04-G             TopLayer    PINHEADER_1X4_TH     2122.047      1295.079      270      "4 Position Receptacle Connector 0.100" (2.54mm) Through Hole Gold"                          
+J3         RS1-04-G             TopLayer    PINHEADER_1X4_TH     185.039       1110.236      180      "4 Position Receptacle Connector 0.100" (2.54mm) Through Hole Gold"                          
+X1         ECS-80-10-30B-CKM-TR TopLayer    4-SMD,_No_Lead       1744.094      677.165       225      "8 MHz ±10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead"                                          
+VR2        L7805CDT-TR          TopLayer    DPAK_TO-252-3        990.315       1353.189      0        "IC REG LDO 5V 1.5A DPAK"                                                                    
+VR1        LD1117V33            TopLayer    DPAK_TO-252-3        532.795       1148.189      0        "LDO Regulator Pos 3.3V 1.3A 3-Pin(3+Tab) TO-220AB Tube"                                     
+U3         MS560702BA03-50      TopLayer    8-SMD_MS560702BA03   1519.685      208.661       90       "Board Mount Pressure Sensor 0.01bar to 1.2bar Absolute 8-Pin QFN T/R"                       
+U2         STM32F103C8T6        TopLayer    LQGP48-STM           1368.110      756.890       180      "ARM Cortex-M3 STM32 F1 Microcontroller 32-Bit 72MHz 64kB FLASH LQFP48 STM32F103C8T6"        
+R7         RC1206FR-0710KL      TopLayer    RE_1206              1374.016      375.984       270      "SMD Chip Resistor, 10 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose"  
+R6         RC0603JR-070RL       TopLayer    RE_0603              787.402       385.827       0        "Zero Ohm Resistor, Jumper, 0603 [1608 Metric], Thick Film, 100 mW, 1 A, Surface Mount"      
+R5         RC1206FR-074K7L      TopLayer    RE_1206              992.126       598.425       90       "SMD Chip Resistor, 4.7 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose" 
+R4         RC1206FR-074K7L      TopLayer    RE_1206              901.575       598.425       90       "SMD Chip Resistor, 4.7 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose" 
+R3         RC1206FR-074K7L      TopLayer    RE_1206              251.969       181.102       180      "SMD Chip Resistor, 4.7 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose" 
+R2         RC0603JR-07100RL     TopLayer    RE_0603              1940.945      1157.480      180      "Res Thick Film 0603 100 Ohm 5% 1/10W ±100ppm/°C Molded SMD SMD Paper T/R"                   
+R1         RC1206FR-074K7L      TopLayer    RE_1206              2007.874      631.890       90       "SMD Chip Resistor, 4.7 kOhm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose" 
+Q1         MMBT3904-7-F         TopLayer    SOT_23_3             1945.748      1258.189      0        "Transistor General Purpose BJT NPN 40 Volt 0.2A Automotive 3-Pin SOT-23-3"                  
+LS1        CMI-9605-0580T       TopLayer    CMI-9605             1673.228      1299.213      90       "9.6 mm, 5 Vdc, 80 dB, Through Hole, Driving Circuit, Magnetic Audio Indicator Buzzer"       
+J6         2201778-1            TopLayer    MICRO_SD             374.508       531.004       270      "Conn Memory Card RCP 8 POS 1.1mm Solder RA SMD 0.5A/Contact T/R"                            
+J5         0393570002           TopLayer    2P_FEMALE_3.5MM_CONN 2409.075      1338.228      90       "3.50mm Pitch Beau Eurostyle Fixed Mount PCB Terminal Block, 2 Circuits"                     
+J4         0393570002           TopLayer    2P_FEMALE_3.5MM_CONN 180.748       1334.291      270      "3.50mm Pitch Beau Eurostyle Fixed Mount PCB Terminal Block, 2 Circuits"                     
+J2         SMH-105-02-L-S       TopLayer    PINHEADER1X5_RA      2106.299      894.095       90       "5 Position Receptacle Connector 0.100" (2.54mm) Surface Mount, Right Angle Gold"            
+D1         1N4148WS             TopLayer    SOD_323_F            1590.551      448.819       270      "Diode Ultra Fast Recovery Rectifier 75V 0.15A 2-Pin SOD-323F T/R"                           
+C20        CL21B104KBCNNNC      TopLayer    CAP_0805             1482.283      458.661       180      "Multilayer Ceramic Capacitor, 0.1 uF, 50 V, ± 10%, X7R, 0805 [2012 Metric]"                 
+C19        CL21B104KBCNNNC      TopLayer    CAP_0805             1102.362      610.236       270      "Multilayer Ceramic Capacitor, 0.1 uF, 50 V, ± 10%, X7R, 0805 [2012 Metric]"                 
+C18        CL21B104KBCNNNC      TopLayer    CAP_0805             1222.441      1015.748      180      "Multilayer Ceramic Capacitor, 0.1 uF, 50 V, ± 10%, X7R, 0805 [2012 Metric]"                 
+C17        CL21B104KBCNNNC      TopLayer    CAP_0805             1657.480      889.764       0        "Multilayer Ceramic Capacitor, 0.1 uF, 50 V, ± 10%, X7R, 0805 [2012 Metric]"                 
+C16        CL21B105KBFNNNE      TopLayer    CAP_0805             1657.480      956.693       0        "CAP CER %10 1uF 0805"                                                                       
+C15        CL21A475KAQNNNE      TopLayer    CAP_0805             1657.480      1023.622      0        "Multilayer Ceramic Capacitor, 4.7 uF, 25 V, ± 10%, X5R, 0805 [2012 Metric]"                 
+C14        C1206C104K3RAC7800   TopLayer    CAP_1206             1501.968      62.992        0        "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+C13        C1206C104K3RAC7800   BottomLayer CAP_1206             2118.110      389.764       270      "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+C12        C1206C120J5GAC7800   TopLayer    CAP_1206             1728.346      480.315       0        "Multilayer Ceramic Capacitor, 12 pF, 50 V, ± 5%, C0G (NP0), 1206 [3216 Metric]"             
+C11        CC1206KRX7R9BB222    TopLayer    CAP_1206             1149.606      496.063       0        "CAP CER 2200PF 50V X7R 1206"                                                                
+C10        C1206C120J5GAC7800   TopLayer    CAP_1206             1850.394      862.205       0        "Multilayer Ceramic Capacitor, 12 pF, 50 V, ± 5%, C0G (NP0), 1206 [3216 Metric]"             
+C9         ESH477M050AH4AA      TopLayer    CAP_RADIAL_D10_P5    1834.646      228.346       0        "Cap, 470UF, 50V, Alu Elec, Radial, Through Hole"                                            
+C8         C1206C104K3RAC7800   TopLayer    CAP_1206             1023.622      108.268       270      "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+C7         C1206C104K3RAC7800   TopLayer    CAP_1206             933.071       108.268       90       "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+C6         C1206C104K3RAC7800   TopLayer    CAP_1206             1232.284      287.402       180      "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+C5         C1206C104K3RAC7800   TopLayer    CAP_1206             730.748       1383.189      270      "Cap Ceramic 0.33uF 16V X7R 10% SMD 1206 125°C Plastic T/R"                                  
+C4         C1206C104K3RAC7800   TopLayer    CAP_1206             1305.748      1296.102      270      "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+C3         T494A106M020AT       TopLayer    CAP_1206_TANT        334.646       972.441       180      "Cap Tant Solid 10uF 20V A CASE 20% (3.2 X 1.6 X 1.6mm) SMD 3216-18 3 Ohm 125 C T/R"         
+C2         T494A106M020AT       TopLayer    CAP_1206_TANT        374.016       1381.890      270      "Cap Tant Solid 10uF 20V A CASE 20% (3.2 X 1.6 X 1.6mm) SMD 3216-18 3 Ohm 125 C T/R"         
+C1         C1206C104K3RAC7800   TopLayer    CAP_1206             1425.197      1291.339      90       "Multilayer Ceramic Capacitor, 0.1 uF, 25 V, ± 10%, X7R, 1206 [3216 Metric]"                 
+B1         "B_D6R90 F1 LFS"     TopLayer    PBUTTON_OFFMOM       2322.835      393.701       0        ""                                                                                           

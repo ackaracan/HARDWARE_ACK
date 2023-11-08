@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=3V3DC Pin=U2-2
+Removed Pin From Net: NetName=WIFI_OUT Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Pin From Net: NetName=WIFI_RXD Pin=U2-34
+Removed Pin From Net: NetName=WIFI_TXD Pin=U2-35
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Member From Class: ClassName=microcontroller Member=U2
+Added Component: Designator=U?(38_SMD)
+Add component (AddParameter): Name = "Case/Package"; Value = "38-SMD Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "RF Receivers, Transceivers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed By"; Value = "Ahmet Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-WROOM-32E(M113EH3200PH3Q0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "–40 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "650=2,94 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "15684"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1965-ESP32-WROOM-32E-N4TR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=3V3DC Pin=U?-2
+Added Pin To Net: NetName=WIFI_OUT Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=WIFI_RXD Pin=U?-34
+Added Pin To Net: NetName=WIFI_TXD Pin=U?-35
+Added Pin To Net: NetName=GND Pin=U?-38
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Member To Class: ClassName=microcontroller Member=Component U? ESP32-WROOM-32E-N4

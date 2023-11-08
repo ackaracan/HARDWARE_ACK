@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Member To Class: ClassName=MCUs_STM32 Member=Component U1 MPU6050

@@ -1,0 +1,4 @@
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Change Net Name : Old Net Name=NetR8_1 New Net Name=MCU_N
+Change Net Name : Old Net Name=NetR9_1 New Net Name=MCU_P
+Added Differential Pair: Name=MCU

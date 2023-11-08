@@ -1,0 +1,63 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: workwork.PcbDoc   18.10.2023  11:34:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : workwork-RoundHoles.TXT
+ASCII SlotHoles File : workwork-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             8         PTH        1.67inch (42.45mm)
+T2      16mil (0.4mm)                                             Round             15        PTH        3.45inch (87.74mm)
+T3      20mil (0.5mm)                                             Round             21        PTH        7.89inch (200.34mm)
+T4      24mil (0.6mm)                                             Round             6         PTH        2.41inch (61.32mm)
+T5      28mil (0.7mm)                                             Round             8         PTH        1.02inch (25.79mm)
+T6      32mil (0.8mm)                                             Round             6         PTH        2.86inch (72.58mm)
+T7      34mil (0.87mm)                                            Round             4         PTH        1.17inch (29.63mm)
+T8      35mil (0.9mm)                                             Round             2         PTH        0.12inch (3.00mm)
+T9      39mil (1mm)                                               Slot              2         PTH        1.45inch (36.74mm)
+T10     43mil (1.1mm)                                             Round             2         PTH        1.18inch (30.00mm)
+T11     47mil (1.2mm)                                             Slot              4         PTH        2.24inch (56.83mm)
+T12     55mil (1.4mm)                                             Round             8         PTH        2.64inch (67.18mm)
+T13     67mil (1.7mm)                                             Round             6         PTH        3.26inch (82.71mm)
+T14     83mil (2.1mm)                                             Round             2         NPTH       0.68inch (17.37mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              94
+Layer Pair : Top Layer to GND
+ASCII RoundHoles File : workwork-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      16mil (0.4mm)                                             Round             77        PTH        19.78inch (502.38mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              77
+Layer Pair : Top Layer to PWR
+ASCII RoundHoles File : workwork-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      16mil (0.4mm)                                             Round             5         PTH        0.88inch (22.25mm)
+T3      20mil (0.5mm)                                             Round             22        PTH        8.76inch (222.52mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              27
+Layer Pair : GND to Bottom Layer
+ASCII RoundHoles File : workwork-RoundHoles.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      16mil (0.4mm)                                             Round             13        PTH        3.81inch (96.74mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              13
+Layer Pair : PWR to Bottom Layer
+ASCII RoundHoles File : workwork-RoundHoles.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T3      20mil (0.5mm)                                             Round             19        PTH        6.60inch (167.55mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              19
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              230
+
+Total Processing Time (hh:mm:ss) : 00:00:00

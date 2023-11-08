@@ -1,0 +1,7 @@
+Layer Pairs Export File for PCB: C:\Users\user\Desktop\Hardware\projects\work\workwork.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=workwork-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=workwork-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_GND_Blind_Vias|DrillFile=workwork-roundholes.tx1|DrillLayers=gtl,gp1
+LayersSetName=Top_PWR_Blind_Vias|DrillFile=workwork-roundholes.tx2|DrillLayers=gtl,gp1,gp2
+LayersSetName=GND_Bot_Blind_Vias|DrillFile=workwork-roundholes.tx3|DrillLayers=gp1,gp2,gbl
+LayersSetName=PWR_Bot_Blind_Vias|DrillFile=workwork-roundholes.tx4|DrillLayers=gp2,gbl

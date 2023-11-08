@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetR6_2 Pin=U?-1
+Removed Pin From Net: NetName=NetR6_2 Pin=U?-1
+Removed Pin From Net: NetName=3V3DC Pin=U?-8
+Removed Pin From Net: NetName=3V3DC Pin=U?-8
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Pin From Net: NetName=GND Pin=U?-9
+Removed Pin From Net: NetName=NetC8_1 Pin=U?-10
+Removed Pin From Net: NetName=NetC8_1 Pin=U?-10
+Removed Pin From Net: NetName=3V3DC Pin=U?-13
+Removed Pin From Net: NetName=3V3DC Pin=U?-13
+Removed Pin From Net: NetName=GND Pin=U?-18
+Removed Pin From Net: NetName=GND Pin=U?-18
+Removed Pin From Net: NetName=NetC11_1 Pin=U?-20
+Removed Pin From Net: NetName=NetC11_1 Pin=U?-20
+Removed Pin From Net: NetName=GYRO_SCL Pin=U?-23
+Removed Pin From Net: NetName=GYRO_SCL Pin=U?-23
+Removed Pin From Net: NetName=GYRO_SDA Pin=U?-24
+Removed Pin From Net: NetName=GYRO_SDA Pin=U?-24
+Added Component: Designator=U?(QFN_24)
+Add component (AddParameter): Name = "Category"; Value = "Inertial Measurement Units (IMUs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1513/1788002-1513632.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1513/1788002-1513632.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/22731/1788002-22731434.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/22731/1788002-22731434.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed By"; Value = "Ahmet Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "I²C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=8,71, 10=6,969, 25=6,4464, 100=5,5752, 500=5,22676, 1000=4,8783 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "Accelerometer, Gyroscope, 6 Axis"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "40546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1428-1007-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR6_2 Pin=U?-1
+Added Pin To Net: NetName=NetR6_2 Pin=U?-1
+Added Pin To Net: NetName=3V3DC Pin=U?-8
+Added Pin To Net: NetName=3V3DC Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetC8_1 Pin=U?-10
+Added Pin To Net: NetName=NetC8_1 Pin=U?-10
+Added Pin To Net: NetName=3V3DC Pin=U?-13
+Added Pin To Net: NetName=3V3DC Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=NetC11_1 Pin=U?-20
+Added Pin To Net: NetName=NetC11_1 Pin=U?-20
+Added Pin To Net: NetName=GYRO_SCL Pin=U?-23
+Added Pin To Net: NetName=GYRO_SCL Pin=U?-23
+Added Pin To Net: NetName=GYRO_SDA Pin=U?-24
+Added Pin To Net: NetName=GYRO_SDA Pin=U?-24

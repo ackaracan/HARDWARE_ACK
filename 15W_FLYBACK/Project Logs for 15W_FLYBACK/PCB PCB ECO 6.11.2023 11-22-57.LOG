@@ -1,0 +1,5 @@
+Change Component Description : Designator=J1 Old Description=Tb, Wire To Brd, R/A, 2Way, 18Awg Rohs Compliant: Yes New Description=Tb, Wire To Brd, R/A, 2Way, 18Awg Rohs Compliant: Yes |Wurth Elektronik 691210910002
+Added Class: Name=DC BUSBAR
+Added Class: Name=HV
+Added Class: Name=ISO
+Added Class: Name=LV

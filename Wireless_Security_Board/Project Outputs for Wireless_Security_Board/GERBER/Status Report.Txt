@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [work.PrjPcb]
+   Generated File[workwork.GTO]
+   Generated File[workwork.GTP]
+   Generated File[workwork.GTS]
+   Generated File[workwork.GTL]
+   Generated File[workwork.GP1]
+   Generated File[workwork.GP2]
+   Generated File[workwork.GBL]
+   Generated File[workwork.GBS]
+   Generated File[workwork.GBP]
+   Generated File[workwork.GBO]
+   Generated File[workwork.GM8]
+   Generated File[workwork.GKO]
+   Generated File[workwork.GD1]
+   Generated File[workwork.GD2]
+   Generated File[workwork.GD3]
+   Generated File[workwork.GD4]
+   Generated File[workwork.GD5]
+   Generated File[workwork.GG1]
+   Generated File[workwork.GG2]
+   Generated File[workwork.GG3]
+   Generated File[workwork.GG4]
+   Generated File[workwork.GG5]
+   Generated File[workwork.GM]
+   Generated File[workwork.EXTREP]
+   Generated File[workwork.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 11:34:13 On 18.10.2023
